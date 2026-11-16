@@ -1,0 +1,16 @@
+query_id,customer_id,query_text,product,created_at
+Q001,C101,I cannot log in to my account even after resetting my password,CloudSync,2025-01-15T09:30:00
+Q002,C102,My last invoice shows a charge I did not authorize,BillingPortal,2025-01-15T10:00:00
+Q003,C103,The report export fails with an internal server error,AnalyticsPro,2025-01-15T10:15:00
+Q004,C104,Can you add dark mode to the dashboard?,CloudSync,2025-01-15T10:30:00
+Q005,C105,What features are included in the basic plan?,CloudSync,2025-01-15T11:00:00
+Q006,C106,The application is down for all our users,AnalyticsPro,2025-01-15T11:30:00
+Q007,C107,I raised a ticket last week but the issue is still unresolved,BillingPortal,2025-01-15T12:00:00
+Q008,C108,We detected a security incident on our account,CloudSync,2025-01-15T12:30:00
+Q009,C109,How do I change my subscription plan?,BillingPortal,2025-01-15T13:00:00
+Q010,C110,The payment gateway keeps timing out during checkout,BillingPortal,2025-01-15T13:30:00
+Q011,C111,,CloudSync,2025-01-15T14:00:00
+Q012,C101,I cannot log in to my account even after resetting my password,CloudSync,2025-01-15T14:30:00
+Q013,C112,My issue is complicated and I am not sure how to describe it,AnalyticsPro,2025-01-15T15:00:00
+Q014,C113,I was charged twice for my monthly billing payment on my invoice,BillingPortal,2025-01-15T15:30:00
+Q015,C114,I contacted support three times and the problem did not work and is still unresolved,CloudSync,2025-01-15T16:00:00

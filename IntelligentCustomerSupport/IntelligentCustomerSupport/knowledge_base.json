@@ -1,0 +1,51 @@
+[
+  {
+    "article_id": "KB001",
+    "intent": "Login / Access",
+    "keywords": ["login", "password", "account locked", "cannot log in", "reset password"],
+    "approved": true,
+    "response": "Follow the approved account recovery procedure. If access remains blocked, contact support."
+  },
+  {
+    "article_id": "KB002",
+    "intent": "Billing",
+    "keywords": ["invoice", "payment", "billing", "charge", "charged"],
+    "approved": true,
+    "response": "Review the billing portal and invoice history. If the payment is not reflected, contact the billing support team."
+  },
+  {
+    "article_id": "KB003",
+    "intent": "General Information",
+    "keywords": ["basic plan", "features", "subscription", "plan", "pricing"],
+    "approved": true,
+    "response": "Refer to the current approved product plan and subscription documentation."
+  },
+  {
+    "article_id": "KB004",
+    "intent": "Technical Error",
+    "keywords": ["server error", "export", "application down", "error", "fails"],
+    "approved": true,
+    "response": "Record the affected functionality and error details. Escalate service-wide outages or unresolved technical errors to the technical support team."
+  },
+  {
+    "article_id": "KB005",
+    "intent": "Feature Request",
+    "keywords": ["dark mode", "feature request", "add feature", "new feature"],
+    "approved": true,
+    "response": "Your feature request has been logged and forwarded to the product team for evaluation."
+  },
+  {
+    "article_id": "KB006",
+    "intent": "Billing",
+    "keywords": ["payment gateway", "timeout", "checkout", "gateway"],
+    "approved": true,
+    "response": "Clear your browser cache and retry. If the issue persists, try a different payment method or contact billing support."
+  },
+  {
+    "article_id": "KB007",
+    "intent": "Login / Access",
+    "keywords": ["two-factor", "2fa", "mfa", "authentication"],
+    "approved": false,
+    "response": "DRAFT: This article is pending review and should not be served to customers."
+  }
+]
